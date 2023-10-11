@@ -10,8 +10,8 @@ public class Myswitch {
             case 2:
                 System.out.println("spring");
                 break;
-                  
 
         }
+
     }
 }

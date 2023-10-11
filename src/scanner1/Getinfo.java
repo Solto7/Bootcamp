@@ -16,7 +16,7 @@ public class Getinfo {
         // next() -> fist word,
         // nextline() -> all sentence
         String name = scan.next();
-        System.out.println("Your name is" + name);
+        System.out.println("Your name is " + name);
 
 
     }
